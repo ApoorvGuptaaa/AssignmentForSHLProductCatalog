@@ -1,0 +1,7 @@
+streamlit
+requests
+beautifulsoup4
+sentence-transformers
+scikit-learn
+numpy
+huggingface_hub==0.19.4  # ✅ Downgraded to avoid cached_download issue
